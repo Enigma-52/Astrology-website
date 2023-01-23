@@ -1,2 +1,1 @@
-# Astrology-website
-Astrology website
+# MeetAcato
